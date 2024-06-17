@@ -3,7 +3,7 @@
 
 - 🔭 The Live Link for [Craftopia](https://craftopia-ruby.vercel.app/)
 
-- 💬 Ask me about **react,tailwind css**
+- 💬 Completed with **react,tailwind css,vite**
 
 - 📫 How to reach me **vp346915@gmail.com**
 
